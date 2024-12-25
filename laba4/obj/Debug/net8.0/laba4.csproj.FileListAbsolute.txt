@@ -1,0 +1,14 @@
+D:\later github\ООП\laba4\bin\Debug\net8.0\laba4.exe
+D:\later github\ООП\laba4\bin\Debug\net8.0\laba4.deps.json
+D:\later github\ООП\laba4\bin\Debug\net8.0\laba4.runtimeconfig.json
+D:\later github\ООП\laba4\bin\Debug\net8.0\laba4.dll
+D:\later github\ООП\laba4\bin\Debug\net8.0\laba4.pdb
+D:\later github\ООП\laba4\obj\Debug\net8.0\laba4.GeneratedMSBuildEditorConfig.editorconfig
+D:\later github\ООП\laba4\obj\Debug\net8.0\laba4.AssemblyInfoInputs.cache
+D:\later github\ООП\laba4\obj\Debug\net8.0\laba4.AssemblyInfo.cs
+D:\later github\ООП\laba4\obj\Debug\net8.0\laba4.csproj.CoreCompileInputs.cache
+D:\later github\ООП\laba4\obj\Debug\net8.0\laba4.dll
+D:\later github\ООП\laba4\obj\Debug\net8.0\refint\laba4.dll
+D:\later github\ООП\laba4\obj\Debug\net8.0\laba4.pdb
+D:\later github\ООП\laba4\obj\Debug\net8.0\laba4.genruntimeconfig.cache
+D:\later github\ООП\laba4\obj\Debug\net8.0\ref\laba4.dll
