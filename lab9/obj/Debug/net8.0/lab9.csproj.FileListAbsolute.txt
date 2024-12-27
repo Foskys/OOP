@@ -1,0 +1,14 @@
+D:\later github\ООП\lab9\bin\Debug\net8.0\lab9.exe
+D:\later github\ООП\lab9\bin\Debug\net8.0\lab9.deps.json
+D:\later github\ООП\lab9\bin\Debug\net8.0\lab9.runtimeconfig.json
+D:\later github\ООП\lab9\bin\Debug\net8.0\lab9.dll
+D:\later github\ООП\lab9\bin\Debug\net8.0\lab9.pdb
+D:\later github\ООП\lab9\obj\Debug\net8.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\later github\ООП\lab9\obj\Debug\net8.0\lab9.AssemblyInfoInputs.cache
+D:\later github\ООП\lab9\obj\Debug\net8.0\lab9.AssemblyInfo.cs
+D:\later github\ООП\lab9\obj\Debug\net8.0\lab9.csproj.CoreCompileInputs.cache
+D:\later github\ООП\lab9\obj\Debug\net8.0\lab9.dll
+D:\later github\ООП\lab9\obj\Debug\net8.0\refint\lab9.dll
+D:\later github\ООП\lab9\obj\Debug\net8.0\lab9.pdb
+D:\later github\ООП\lab9\obj\Debug\net8.0\lab9.genruntimeconfig.cache
+D:\later github\ООП\lab9\obj\Debug\net8.0\ref\lab9.dll
