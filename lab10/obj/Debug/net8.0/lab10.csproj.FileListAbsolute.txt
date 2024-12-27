@@ -1,0 +1,14 @@
+D:\later github\ООП\lab10\obj\Debug\net8.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\later github\ООП\lab10\obj\Debug\net8.0\lab10.AssemblyInfoInputs.cache
+D:\later github\ООП\lab10\obj\Debug\net8.0\lab10.AssemblyInfo.cs
+D:\later github\ООП\lab10\obj\Debug\net8.0\lab10.csproj.CoreCompileInputs.cache
+D:\later github\ООП\lab10\bin\Debug\net8.0\lab10.exe
+D:\later github\ООП\lab10\bin\Debug\net8.0\lab10.deps.json
+D:\later github\ООП\lab10\bin\Debug\net8.0\lab10.runtimeconfig.json
+D:\later github\ООП\lab10\bin\Debug\net8.0\lab10.dll
+D:\later github\ООП\lab10\bin\Debug\net8.0\lab10.pdb
+D:\later github\ООП\lab10\obj\Debug\net8.0\lab10.dll
+D:\later github\ООП\lab10\obj\Debug\net8.0\refint\lab10.dll
+D:\later github\ООП\lab10\obj\Debug\net8.0\lab10.pdb
+D:\later github\ООП\lab10\obj\Debug\net8.0\lab10.genruntimeconfig.cache
+D:\later github\ООП\lab10\obj\Debug\net8.0\ref\lab10.dll
