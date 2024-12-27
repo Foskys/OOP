@@ -1,0 +1,17 @@
+[
+  {
+    "Type": "Ship",
+    "Name": "Титаник",
+    "Speed": 30
+  },
+  {
+    "Type": "Steamboat",
+    "Name": "Пароход",
+    "Speed": 20
+  },
+  {
+    "Type": "Sailboat",
+    "Name": "Яхта",
+    "Speed": 15
+  }
+]
