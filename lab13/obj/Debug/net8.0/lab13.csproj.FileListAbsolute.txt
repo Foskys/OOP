@@ -1,0 +1,14 @@
+D:\later github\ООП\lab13\bin\Debug\net8.0\lab13.exe
+D:\later github\ООП\lab13\bin\Debug\net8.0\lab13.deps.json
+D:\later github\ООП\lab13\bin\Debug\net8.0\lab13.runtimeconfig.json
+D:\later github\ООП\lab13\bin\Debug\net8.0\lab13.dll
+D:\later github\ООП\lab13\bin\Debug\net8.0\lab13.pdb
+D:\later github\ООП\lab13\obj\Debug\net8.0\lab13.GeneratedMSBuildEditorConfig.editorconfig
+D:\later github\ООП\lab13\obj\Debug\net8.0\lab13.AssemblyInfoInputs.cache
+D:\later github\ООП\lab13\obj\Debug\net8.0\lab13.AssemblyInfo.cs
+D:\later github\ООП\lab13\obj\Debug\net8.0\lab13.csproj.CoreCompileInputs.cache
+D:\later github\ООП\lab13\obj\Debug\net8.0\lab13.dll
+D:\later github\ООП\lab13\obj\Debug\net8.0\refint\lab13.dll
+D:\later github\ООП\lab13\obj\Debug\net8.0\lab13.pdb
+D:\later github\ООП\lab13\obj\Debug\net8.0\lab13.genruntimeconfig.cache
+D:\later github\ООП\lab13\obj\Debug\net8.0\ref\lab13.dll

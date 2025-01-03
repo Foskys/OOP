@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <Brand>Toyota</Brand>
+    <Model>Corolla</Model>
+    <Engine>
+      <HorsePower>150</HorsePower>
+    </Engine>
+  </Car>
+  <Car>
+    <Brand>Honda</Brand>
+    <Model>Civic</Model>
+    <Engine>
+      <HorsePower>140</HorsePower>
+    </Engine>
+  </Car>
+  <Car>
+    <Brand>Ford</Brand>
+    <Model>Focus</Model>
+    <Engine>
+      <HorsePower>160</HorsePower>
+    </Engine>
+  </Car>
+</ArrayOfCar>
