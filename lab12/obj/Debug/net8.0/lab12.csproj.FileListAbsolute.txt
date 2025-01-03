@@ -1,0 +1,14 @@
+D:\later github\ООП\lab12\bin\Debug\net8.0\lab12.exe
+D:\later github\ООП\lab12\bin\Debug\net8.0\lab12.deps.json
+D:\later github\ООП\lab12\bin\Debug\net8.0\lab12.runtimeconfig.json
+D:\later github\ООП\lab12\bin\Debug\net8.0\lab12.dll
+D:\later github\ООП\lab12\bin\Debug\net8.0\lab12.pdb
+D:\later github\ООП\lab12\obj\Debug\net8.0\lab12.GeneratedMSBuildEditorConfig.editorconfig
+D:\later github\ООП\lab12\obj\Debug\net8.0\lab12.AssemblyInfoInputs.cache
+D:\later github\ООП\lab12\obj\Debug\net8.0\lab12.AssemblyInfo.cs
+D:\later github\ООП\lab12\obj\Debug\net8.0\lab12.csproj.CoreCompileInputs.cache
+D:\later github\ООП\lab12\obj\Debug\net8.0\lab12.dll
+D:\later github\ООП\lab12\obj\Debug\net8.0\refint\lab12.dll
+D:\later github\ООП\lab12\obj\Debug\net8.0\lab12.pdb
+D:\later github\ООП\lab12\obj\Debug\net8.0\lab12.genruntimeconfig.cache
+D:\later github\ООП\lab12\obj\Debug\net8.0\ref\lab12.dll
