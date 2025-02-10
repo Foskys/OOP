@@ -1,0 +1,42 @@
+C:\Users\bubblechuk\source\repos\OOP14\OOP14\bin\Debug\net8.0\OOP14.exe
+C:\Users\bubblechuk\source\repos\OOP14\OOP14\bin\Debug\net8.0\OOP14.deps.json
+C:\Users\bubblechuk\source\repos\OOP14\OOP14\bin\Debug\net8.0\OOP14.runtimeconfig.json
+C:\Users\bubblechuk\source\repos\OOP14\OOP14\bin\Debug\net8.0\OOP14.dll
+C:\Users\bubblechuk\source\repos\OOP14\OOP14\bin\Debug\net8.0\OOP14.pdb
+C:\Users\bubblechuk\source\repos\OOP14\OOP14\obj\Debug\net8.0\OOP14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bubblechuk\source\repos\OOP14\OOP14\obj\Debug\net8.0\OOP14.AssemblyInfoInputs.cache
+C:\Users\bubblechuk\source\repos\OOP14\OOP14\obj\Debug\net8.0\OOP14.AssemblyInfo.cs
+C:\Users\bubblechuk\source\repos\OOP14\OOP14\obj\Debug\net8.0\OOP14.csproj.CoreCompileInputs.cache
+C:\Users\bubblechuk\source\repos\OOP14\OOP14\obj\Debug\net8.0\OOP14.dll
+C:\Users\bubblechuk\source\repos\OOP14\OOP14\obj\Debug\net8.0\refint\OOP14.dll
+C:\Users\bubblechuk\source\repos\OOP14\OOP14\obj\Debug\net8.0\OOP14.pdb
+C:\Users\bubblechuk\source\repos\OOP14\OOP14\obj\Debug\net8.0\OOP14.genruntimeconfig.cache
+C:\Users\bubblechuk\source\repos\OOP14\OOP14\obj\Debug\net8.0\ref\OOP14.dll
+D:\later github\ООП\OOP14\OOP14\bin\Debug\net8.0\OOP14.exe
+D:\later github\ООП\OOP14\OOP14\bin\Debug\net8.0\OOP14.deps.json
+D:\later github\ООП\OOP14\OOP14\bin\Debug\net8.0\OOP14.runtimeconfig.json
+D:\later github\ООП\OOP14\OOP14\bin\Debug\net8.0\OOP14.dll
+D:\later github\ООП\OOP14\OOP14\bin\Debug\net8.0\OOP14.pdb
+D:\later github\ООП\OOP14\OOP14\obj\Debug\net8.0\OOP14.GeneratedMSBuildEditorConfig.editorconfig
+D:\later github\ООП\OOP14\OOP14\obj\Debug\net8.0\OOP14.AssemblyInfoInputs.cache
+D:\later github\ООП\OOP14\OOP14\obj\Debug\net8.0\OOP14.AssemblyInfo.cs
+D:\later github\ООП\OOP14\OOP14\obj\Debug\net8.0\OOP14.csproj.CoreCompileInputs.cache
+D:\later github\ООП\OOP14\OOP14\obj\Debug\net8.0\OOP14.dll
+D:\later github\ООП\OOP14\OOP14\obj\Debug\net8.0\refint\OOP14.dll
+D:\later github\ООП\OOP14\OOP14\obj\Debug\net8.0\OOP14.pdb
+D:\later github\ООП\OOP14\OOP14\obj\Debug\net8.0\OOP14.genruntimeconfig.cache
+D:\later github\ООП\OOP14\OOP14\obj\Debug\net8.0\ref\OOP14.dll
+D:\later github\ООП\OOP15\OOP14\obj\Debug\net8.0\OOP14.GeneratedMSBuildEditorConfig.editorconfig
+D:\later github\ООП\OOP15\OOP14\obj\Debug\net8.0\OOP14.AssemblyInfoInputs.cache
+D:\later github\ООП\OOP15\OOP14\obj\Debug\net8.0\OOP14.AssemblyInfo.cs
+D:\later github\ООП\OOP15\OOP14\obj\Debug\net8.0\OOP14.csproj.CoreCompileInputs.cache
+D:\later github\ООП\OOP15\OOP14\obj\Debug\net8.0\OOP14.dll
+D:\later github\ООП\OOP15\OOP14\obj\Debug\net8.0\refint\OOP14.dll
+D:\later github\ООП\OOP15\OOP14\obj\Debug\net8.0\OOP14.pdb
+D:\later github\ООП\OOP15\OOP14\bin\Debug\net8.0\OOP14.exe
+D:\later github\ООП\OOP15\OOP14\bin\Debug\net8.0\OOP14.deps.json
+D:\later github\ООП\OOP15\OOP14\bin\Debug\net8.0\OOP14.runtimeconfig.json
+D:\later github\ООП\OOP15\OOP14\bin\Debug\net8.0\OOP14.dll
+D:\later github\ООП\OOP15\OOP14\bin\Debug\net8.0\OOP14.pdb
+D:\later github\ООП\OOP15\OOP14\obj\Debug\net8.0\OOP14.genruntimeconfig.cache
+D:\later github\ООП\OOP15\OOP14\obj\Debug\net8.0\ref\OOP14.dll
